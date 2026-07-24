@@ -170,8 +170,12 @@ I enjoy the space where **clean interface design** meets **practical engineering
 ## `04.` GitHub pulse
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=apexuankhoi&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=00000000&title_color=a78bfa&text_color=94a3b8&icon_color=22d3ee" alt="Nguyễn Xuân Khởi's GitHub statistics" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apexuankhoi&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=a78bfa&text_color=94a3b8" alt="Nguyễn Xuân Khởi's most used languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apexuankhoi&theme=github_dark" alt="Nguyễn Xuân Khởi's GitHub contribution overview" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=apexuankhoi&theme=github_dark" alt="Nguyễn Xuân Khởi's GitHub statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apexuankhoi&theme=github_dark" alt="Nguyễn Xuân Khởi's top languages by repository" />
 </p>
 
 <p align="center">
